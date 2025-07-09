@@ -24,4 +24,3 @@ _Add screenshots of the Excel tool here (optional)._
 
 ## 📄 License
 MIT License
-Updated README with full project details
